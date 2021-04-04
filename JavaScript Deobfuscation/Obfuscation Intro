@@ -1,1 +1,16 @@
 # What is Obfuscation of Code?
+
+Code deobfuscation is an essential concept / skill for all security proffessionals to understand.
+
+JavaScript Malware can be ofuscated to retreive it's main payload.
+If we can't understand how this JavaScript is doing to retreive the payload, how can we successfully complete our mission as red team / blue team professionals?
+
+First let us refresh our knowledge of the general structure of an HTML page and where the JS Code fits into play.
+
+This module will cover
+>Locating JavaScript code
+>Intro to Code Obfuscation
+>How to Deobfuscate JavaScript code
+>How to decode encoded messages
+>Basic Code Analysis
+>Sending basic HTTP requests
