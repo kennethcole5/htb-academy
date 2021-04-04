@@ -14,3 +14,15 @@ This module will cover
 >How to decode encoded messages
 >Basic Code Analysis
 >Sending basic HTTP requests
+
+
+ # JavaScript Code
+ > Over 80% of people on the web these days use JS to perform functionality required of their website
+ > HTML is responsilbe for the fields and parameters like the top of the stack for u CS majors
+ > CSS is used to determine design on the page (aesthetics)
+ 
+ 
+ > The interesting thing is that *all of this source code is available to us (the clients) and *rendered* by the browser
+ > Even so, we don't pay attention to the source code of the pages we visit 
+ > but if we were to inpect it using CTRL+SHIFT+I or CTRL+U for RAW source code
+ > We can begin to understand the website that we are investigating
